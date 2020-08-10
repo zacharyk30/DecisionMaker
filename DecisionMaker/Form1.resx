@@ -119,7 +119,7 @@
   </resheader>
   <data name="label1.Text" xml:space="preserve">
     <value>In the textbox below enter in the options you are stuck making a decision on. After you type each option click the add item button.
- The list of options will be displayed to the right of the textbox after each item gets added. When completed adding items click Decision button.
+ The list of options will be displayed to the right of the textbox after each item gets added. When you are finished adding items click Decision button.
 </value>
   </data>
 </root>
